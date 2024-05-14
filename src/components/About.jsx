@@ -28,7 +28,7 @@ const About = () => {
                 <a
                   href="https://firebasetest.mnoss.site"
                   target="_blank"
-                  rel="norefferer"
+                  rel="noreferrer"
                 >
                   firebase database & authentication testing
                 </a>
@@ -37,7 +37,7 @@ const About = () => {
                 <a
                   href="https://test.mnoss.site"
                   target="_blank"
-                  rel="norefferer"
+                  rel="noreferrer"
                 >
                   intial react.JS testing
                 </a>
@@ -46,7 +46,7 @@ const About = () => {
                 <a
                   href="https://replit.com/@klwnc"
                   target="_blank"
-                  rel="norefferer">
+                  rel="noreferrer">
                   School Projects & Classwork
                 </a>
               </li>
