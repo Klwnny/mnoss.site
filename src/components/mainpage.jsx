@@ -9,7 +9,7 @@ const Mainpage = () => {
                 <ul className="uk-list uk-list-circle">
                     <li><a href="https://discord.com" target="_blank" rel="noreferrer"><span uk-icon="discord"/> @mnoss</a></li>
                     <li><a href="https://github.com/Klwnny" target="_blank" rel="noreferrer"><span uk-icon="github"/> https://github.com/Klwnny</a></li>
-                    <li><a href="https://mnoss.site" target="_blank" rel="noreferrer"><span uk-icon="google"/> mnoss@mnoss.site</a></li>
+                    <li><a href="mailto:mnoss@mnoss.site" target="_blank" rel="noreferrer"><span uk-icon="google"/> mnoss@mnoss.site</a></li>
                     <li><a href="https://www.linkedin.com/in/yuming-ge-520577308/" target="_blank" rel="noreferrer"><span uk-icon="linkedin"></span> Linkedin</a></li>
                 </ul>
             </div>

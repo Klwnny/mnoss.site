@@ -15,8 +15,7 @@ const About = () => {
               kinds of projects!
             </p>
             <p>
-              For any business inquires, please contact my email as put on the
-              main page.
+              For any business inquires, please contact my email mnoss@mnoss.site !
             </p>
           </div>
         </div>
@@ -48,6 +47,14 @@ const About = () => {
                   target="_blank"
                   rel="noreferrer">
                   School Projects & Classwork
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://stardewvalleycs2024final.mnoss.site"
+                  target="_blank"
+                  rel="noreferrer">
+                  Final School project of the 2024 year!
                 </a>
               </li>
             </ul>

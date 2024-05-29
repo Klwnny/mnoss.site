@@ -5,7 +5,13 @@ CUSTOM CSS HERE
 */
 
 
-
+* {
+--text: #fbe8ef !important;
+--background: #110309 !important;
+--primary: #ec82a7 !important;
+--secondary: #689417 !important;
+--accent: #47df32 !important;
+}
 
 
 /* 
@@ -32,7 +38,7 @@ THIS CONCLUDES CUSTOM CSS
  * 3. Style
  */
 
- @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap");
+ @import url("https://api.fonts.coollabs.io/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap");
  html {
    /* 1 */
    font-family: "IBM Plex Mono", monospace;
