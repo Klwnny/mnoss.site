@@ -42,7 +42,7 @@ const Index = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://mnoss.site"
                   target="_blank"
                   rel="noreferrer">
                   More Coming Soon!
